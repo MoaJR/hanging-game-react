@@ -46,7 +46,7 @@ function Game() {
     {word: "preto", hint: "Cor"},
     {word: "cinza", hint: "Cor"},
     {word: "marrom", hint: "Cor"},
-    
+    {word: "laranja", hint: "Cor"},    
   ];
 
   const handleLetterClick = ({ target }) => {
